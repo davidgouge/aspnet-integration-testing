@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestingWeb", "IntegrationTestingWeb\IntegrationTestingWeb.csproj", "{495934FC-48DC-40FB-B241-4029BD4AADE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestingTests", "IntegrationTestingTests\IntegrationTestingTests.csproj", "{A159954C-9164-45C5-8EFB-83908D742E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495934FC-48DC-40FB-B241-4029BD4AADE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495934FC-48DC-40FB-B241-4029BD4AADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495934FC-48DC-40FB-B241-4029BD4AADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495934FC-48DC-40FB-B241-4029BD4AADE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A159954C-9164-45C5-8EFB-83908D742E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A159954C-9164-45C5-8EFB-83908D742E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A159954C-9164-45C5-8EFB-83908D742E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A159954C-9164-45C5-8EFB-83908D742E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
